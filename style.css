@@ -1,0 +1,159 @@
+
+.first{
+    margin-left: 550px;
+}
+.price{
+    color: #FF136F;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#000000 0%, #000000 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+.backpack img{
+    width: 250px;
+}
+.bg1,.bg2,.bg3{
+    padding: 0px 20px;
+}
+.price{
+       text-align: justify;
+       font-size: 30px;
+       text-decoration-color: green;
+       
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+.new{
+    margin: 10px 0 0 80px;
+    
+}
+/* new */
+.col-md-7 h1{
+    color: #1F1F1F;
+    
+}
+
+.col-md-7 p{
+    color: #707070;
+    margin-top: 25px;
+}
+
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.new{
+    margin-top: 20px;
+}
+.shoes{
+    margin-top: 125px;
+}
+
+.shoes img{
+    width: 250px;
+}
+.cat4,.cat5,.cat6{
+     padding: 0px 20px;
+    
+     
+}
+.cat4 img,.cat5 img,.cat6 img{
+    width: 280px;
+    margin-top: 40px;
+    
+}
+.seeall{
+    float: right;
+    color: rgb(255, 153, 0);
+    
+}
+    
+.see{
+    margin-bottom: 40px;
+}
+.smartphone{
+    font-size: 20px;
+}
+
+/* categories */
+.ami{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+hr.new1{
+    border: 3px solid rgba(255, 123, 0, 0.966);
+    border-radius: 5px;
+    width: 10%;
+
+}
+
+.col-md-6 img{
+    width: 600px;
+    margin-left: 80px;
+    
+    
+}
+.col-mod-3 img{
+    width: 150px;
+    
+}
+.perfume{
+    margin-left: 120px;
+    margin-bottom: 40px;
+  
+}
+.shoe{
+    margin-left: 120px;
+}
+.bag{
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+
+
+footer{
+    text-align: center;
+}
